@@ -1,0 +1,50 @@
+2026-04-21 23:35:28,267 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:35:29,925 - INFO - Order response: {}
+2026-04-21 23:35:43,720 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-04-21 23:35:45,314 - INFO - Order response: {}
+2026-04-21 23:37:28,858 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-04-21 23:37:30,499 - INFO - Order response: {}
+2026-04-21 23:39:00,959 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:39:02,599 - INFO - Order response: {}
+2026-04-21 23:41:00,334 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:41:02,025 - INFO - Order response: {}
+2026-04-21 23:44:56,889 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:44:58,567 - INFO - Order response: {}
+2026-04-21 23:45:26,806 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:45:28,451 - INFO - Order response: {}
+2026-04-21 23:47:59,575 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:48:00,496 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-21 23:50:10,948 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:50:11,883 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-21 23:50:58,737 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:50:59,655 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-21 23:53:51,806 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:53:52,711 - INFO - Order response: {'orderId': 13058566173, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'x-Cb7ytekJ286921c3bdc08fe3c97caa', 'price': '0.00', 'avgPrice': '75426.700000', 'origQty': '0.0010', 'executedQty': '0.0010', 'cumQty': '0.0010', 'cumQuote': '75.426700', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776795832505}
+2026-04-21 23:55:22,759 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:55:23,637 - INFO - Order response: {'orderId': 13058570368, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'x-Cb7ytekJc09c26a4949cdcb22fd22b', 'price': '0.00', 'avgPrice': '75500.000000', 'origQty': '0.0010', 'executedQty': '0.0010', 'cumQty': '0.0010', 'cumQuote': '75.500000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776795923444}
+2026-04-21 23:59:45,615 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-21 23:59:46,481 - INFO - Order response: {'orderId': 13058581689, 'symbol': 'BTCUSDT', 'status': 'FILLED', 'clientOrderId': 'x-Cb7ytekJdb8a55e063b7031019d71', 'price': '0.00', 'avgPrice': '75435.900000', 'origQty': '0.0010', 'executedQty': '0.0010', 'cumQty': '0.0010', 'cumQuote': '75.435900', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776796186282}
+2026-04-21 23:59:59,254 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-04-22 00:00:00,079 - ERROR - Error placing order: APIError(code=-4024): Limit price can't be lower than 71662.95.
+2026-04-22 00:00:58,376 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 80000.0
+2026-04-22 00:00:59,229 - INFO - Order response: {'orderId': 13058584591, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJc79814b064fd492a2ec4c', 'price': '80000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776796259031}
+2026-04-22 00:01:06,809 - INFO - Placing order: BTCUSDT BUY LIMIT 0.001 70000.0
+2026-04-22 00:01:07,639 - INFO - Order response: {'orderId': 13058585085, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ641ab57ea33768c3d7482c', 'price': '70000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776796267440}
+2026-04-22 00:01:18,879 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 80000.0
+2026-04-22 00:01:19,722 - INFO - Order response: {'orderId': 13058585559, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ187b071773d6c2c66374f6', 'price': '80000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776796279499}
+2026-04-22 00:02:21,266 - INFO - Placing order: BTCUSDT BUY STOP 0.001 70000.0
+2026-04-22 00:02:21,267 - ERROR - Error placing order: cannot access local variable 'order' where it is not associated with a value
+2026-04-22 00:03:19,272 - INFO - Placing order: BTCUSDT BUY STOP 0.001 70000.0
+2026-04-22 00:03:20,133 - ERROR - Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-04-22 00:04:02,210 - INFO - Placing order: BTCUSDT BUY STOP 0.002 70000.0
+2026-04-22 00:04:03,097 - ERROR - Error placing order: APIError(code=-2021): Order would immediately trigger.
+2026-04-22 00:04:18,011 - INFO - Placing order: BTCUSDT BUY STOP 0.002 70000.0
+2026-04-22 00:04:18,828 - ERROR - Error placing order: APIError(code=-2021): Order would immediately trigger.
+2026-04-22 00:04:57,860 - INFO - Placing order: BTCUSDT BUY STOP 0.002 80000.0
+2026-04-22 00:04:58,710 - INFO - Order response: {'algoId': 1000000054371739, 'clientAlgoId': 'x-Cb7ytekJ963ef7ebf89735f303a9d6', 'algoType': 'CONDITIONAL', 'orderType': 'STOP_MARKET', 'symbol': 'BTCUSDT', 'side': 'BUY', 'positionSide': 'BOTH', 'timeInForce': 'GTC', 'quantity': '0.0020', 'algoStatus': 'NEW', 'triggerPrice': '80000.00', 'price': '0.00', 'icebergQuantity': None, 'selfTradePreventionMode': 'EXPIRE_MAKER', 'workingType': 'CONTRACT_PRICE', 'priceMatch': 'NONE', 'closePosition': False, 'priceProtect': False, 'reduceOnly': False, 'createTime': 1776796498500, 'updateTime': 1776796498501, 'triggerTime': 0, 'goodTillDate': 0}
+2026-04-22 00:05:09,103 - INFO - Placing order: BTCUSDT SELL STOP 0.002 70000.0
+2026-04-22 00:05:10,090 - INFO - Order response: {'algoId': 1000000054371886, 'clientAlgoId': 'x-Cb7ytekJ9f33c3ffd60f42ab2d3060', 'algoType': 'CONDITIONAL', 'orderType': 'STOP_MARKET', 'symbol': 'BTCUSDT', 'side': 'SELL', 'positionSide': 'BOTH', 'timeInForce': 'GTC', 'quantity': '0.0020', 'algoStatus': 'NEW', 'triggerPrice': '70000.00', 'price': '0.00', 'icebergQuantity': None, 'selfTradePreventionMode': 'EXPIRE_MAKER', 'workingType': 'CONTRACT_PRICE', 'priceMatch': 'NONE', 'closePosition': False, 'priceProtect': False, 'reduceOnly': False, 'createTime': 1776796509863, 'updateTime': 1776796509868, 'triggerTime': 0, 'goodTillDate': 0}
+2026-04-22 00:05:17,469 - INFO - Placing order: BTCUSDT BUY STOP 0.002 80000.0
+2026-04-22 00:05:18,312 - INFO - Order response: {'algoId': 1000000054371977, 'clientAlgoId': 'x-Cb7ytekJdbf4a0f8599fd868d88ab2', 'algoType': 'CONDITIONAL', 'orderType': 'STOP_MARKET', 'symbol': 'BTCUSDT', 'side': 'BUY', 'positionSide': 'BOTH', 'timeInForce': 'GTC', 'quantity': '0.0020', 'algoStatus': 'NEW', 'triggerPrice': '80000.00', 'price': '0.00', 'icebergQuantity': None, 'selfTradePreventionMode': 'EXPIRE_MAKER', 'workingType': 'CONTRACT_PRICE', 'priceMatch': 'NONE', 'closePosition': False, 'priceProtect': False, 'reduceOnly': False, 'createTime': 1776796518101, 'updateTime': 1776796518105, 'triggerTime': 0, 'goodTillDate': 0}
+2026-04-22 00:05:31,524 - INFO - Placing order: BTCUSDT BUY STOP 0.002 80000.0
+2026-04-22 00:05:32,421 - INFO - Order response: {'algoId': 1000000054372122, 'clientAlgoId': 'x-Cb7ytekJ5c188afe6e9619496202c2', 'algoType': 'CONDITIONAL', 'orderType': 'STOP_MARKET', 'symbol': 'BTCUSDT', 'side': 'BUY', 'positionSide': 'BOTH', 'timeInForce': 'GTC', 'quantity': '0.0020', 'algoStatus': 'NEW', 'triggerPrice': '80000.00', 'price': '0.00', 'icebergQuantity': None, 'selfTradePreventionMode': 'EXPIRE_MAKER', 'workingType': 'CONTRACT_PRICE', 'priceMatch': 'NONE', 'closePosition': False, 'priceProtect': False, 'reduceOnly': False, 'createTime': 1776796532190, 'updateTime': 1776796532195, 'triggerTime': 0, 'goodTillDate': 0}
