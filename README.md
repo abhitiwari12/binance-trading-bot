@@ -115,6 +115,12 @@ Status: FILLED
 
 ---
 
+## 📂 Logs
+
+All logs (including MARKET and LIMIT orders) are available in `logs/trading_bot.log`.
+
+---
+
 ## 🚧 Future ideas
 
 * Add a simple UI (maybe Streamlit)
